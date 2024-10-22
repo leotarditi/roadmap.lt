@@ -23,31 +23,6 @@
 
 ---
 
-# ¿Qué es Blockchain?
-- **Enlace al Artículo:** [¿Qué es Blockchain? - Investopedia](https://www.investopedia.com/terms/b/blockchain.asp)
-- **Explicación Breve del Concepto:**
-  Blockchain es una tecnología de registro descentralizado que permite el almacenamiento de información en una red de computadoras de manera segura y transparente. Cada bloque en la cadena contiene una lista de transacciones, un hash del bloque anterior y una marca de tiempo, lo que garantiza la integridad de los datos. Esta estructura hace que la información sea casi imposible de alterar o falsificar.
-- **Concepto Principal:**
-  La blockchain funciona como un libro de contabilidad digital donde las transacciones se registran en bloques interconectados, y cada bloque está vinculado al anterior. Gracias a su naturaleza descentralizada, no hay un único punto de control, lo que reduce el riesgo de fraude. Además, la transparencia que ofrece blockchain permite que cualquier persona en la red verifique las transacciones.
-- **Principio de Pareto:**
-  Las ideas clave sobre blockchain incluyen:
-  1. Blockchain es un registro descentralizado y seguro.
-  2. Cada bloque contiene transacciones y un hash del bloque anterior.
-  3. La tecnología previene la alteración de datos.
-  4. Permite la verificación transparente de transacciones.
-  5. Su uso se extiende más allá de las criptomonedas, abarcando diversas industrias.
-- **Analogía o Modelo Mental:**
-  Imagina blockchain como un diario público donde cada página (bloque) contiene registros de eventos. Una vez que se escribe algo, no se puede borrar, y todos pueden revisar el diario para verificar lo que ha sucedido.
-- **Flashcards:**
-  1. **P:** ¿Qué es blockchain? **R:** Una tecnología de registro descentralizado que almacena información de manera segura.
-  2. **P:** ¿Qué contiene cada bloque en la blockchain? **R:** Una lista de transacciones, un hash del bloque anterior y una marca de tiempo.
-  3. **P:** ¿Cómo previene blockchain la alteración de datos? **R:** Por su estructura de bloques interconectados que son difíciles de modificar.
-  4. **P:** ¿Qué permite la transparencia en blockchain? **R:** Que cualquier persona verifique las transacciones en la red.
-  5. **P:** ¿En qué sectores se utiliza blockchain? **R:** En finanzas, salud, logística, entre otros.
-- **Etiquetas:** #Blockchain #Definición #Tecnología #Transacciones
-
----
-
 # Descentralización en Blockchain
 - **Enlace al Artículo:** [Descentralización en Blockchain - AWS](https://aws.amazon.com/blockchain/decentralization-in-blockchain/)
 - **Explicación Breve del Concepto:**
