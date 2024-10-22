@@ -84,11 +84,11 @@
 - **Analogía o Modelo Mental:**
 Imagina que tu sitio web es una tienda. El **hosting compartido** es como alquilar un espacio en un centro comercial donde compartes recursos (electricidad, seguridad) con otras tiendas. En cambio, un **VPS** es como tener tu propio local más pequeño, y un **hosting dedicado** es como comprar todo un edificio para tu tienda.
 - **Flashcards/Notas de Estudio:**
-1. **P:** ¿Qué es el alojamiento web? **R:** Servicio que permite almacenar y publicar contenido de un sitio web en Internet.
-2. **P:** ¿Qué es el hosting compartido? **R:** Un servidor que aloja varios sitios web compartiendo recursos entre ellos.
-3. **P:** ¿Cuándo es recomendable usar un VPS? **R:** Cuando un sitio web requiere más recursos y personalización que los ofrecidos por el hosting compartido.
-4. **P:** ¿Qué tipo de hosting es el más costoso y ofrece más control? **R:** El hosting dedicado.
-5. **P:** ¿Cuál es la ventaja principal del hosting compartido? **R:** Su bajo costo y facilidad de uso para principiantes.
+  1. **P:** ¿Qué es el alojamiento web? **R:** Servicio que permite almacenar y publicar contenido de un sitio web en Internet.
+  2. **P:** ¿Qué es el hosting compartido? **R:** Un servidor que aloja varios sitios web compartiendo recursos entre ellos.
+  3. **P:** ¿Cuándo es recomendable usar un VPS? **R:** Cuando un sitio web requiere más recursos y personalización que los ofrecidos por el hosting compartido.
+  4. **P:** ¿Qué tipo de hosting es el más costoso y ofrece más control? **R:** El hosting dedicado.
+  5. **P:** ¿Cuál es la ventaja principal del hosting compartido? **R:** Su bajo costo y facilidad de uso para principiantes.
 - **Etiquetas:** #Hosting #AlojamientoWeb #VPS #HostingCompartido #SitiosWeb
 
 --- 
@@ -102,19 +102,19 @@ El **DNS (Sistema de Nombres de Dominio)** es el protocolo que traduce los nombr
 El DNS actúa como una libreta de direcciones para Internet. Cuando ingresas un nombre de dominio en un navegador, el DNS lo convierte en la dirección IP del servidor donde está alojado el sitio web, facilitando el acceso. Sin este sistema, tendríamos que recordar largas series de números (direcciones IP).
 - **Principio de Pareto:**
 El 20% más importante del DNS incluye:
-1. Traducción de **dominios** en direcciones IP.
-2. **Servidores de nombres** que realizan esta conversión.
-3. **Caché DNS** para mejorar la velocidad de las solicitudes.
-4. **Jerarquía DNS**: desde servidores raíz hasta servidores autoritativos.
-5. **Seguridad**: Amenazas como el spoofing o ataques DDoS afectan el sistema DNS.
+  1. Traducción de **dominios** en direcciones IP.
+  2. **Servidores de nombres** que realizan esta conversión.
+  3. **Caché DNS** para mejorar la velocidad de las solicitudes.
+  4. **Jerarquía DNS**: desde servidores raíz hasta servidores autoritativos.
+  5. **Seguridad**: Amenazas como el spoofing o ataques DDoS afectan el sistema DNS.
 - **Analogía o Modelo Mental:**
 El DNS es como una agenda telefónica: en lugar de memorizar el número de teléfono de una persona, solo necesitas saber su nombre, y la agenda te dice cuál es su número.
 - **Flashcards/Notas de Estudio:**
-1. **P:** ¿Qué hace el DNS? **R:** Traduce nombres de dominio en direcciones IP.
-2. **P:** ¿Qué es una dirección IP? **R:** Es un conjunto de números que identifica un dispositivo en una red.
-3. **P:** ¿Qué pasaría sin el DNS? **R:** Tendríamos que recordar las direcciones IP de todos los sitios web.
-4. **P:** ¿Qué es un servidor DNS autoritativo? **R:** Es el servidor que tiene la información definitiva sobre un nombre de dominio.
-5. **P:** ¿Cuál es la función del caché DNS? **R:** Almacena respuestas DNS para acelerar futuras solicitudes.
+  1. **P:** ¿Qué hace el DNS? **R:** Traduce nombres de dominio en direcciones IP.
+  2. **P:** ¿Qué es una dirección IP? **R:** Es un conjunto de números que identifica un dispositivo en una red.
+  3. **P:** ¿Qué pasaría sin el DNS? **R:** Tendríamos que recordar las direcciones IP de todos los sitios web.
+  4. **P:** ¿Qué es un servidor DNS autoritativo? **R:** Es el servidor que tiene la información definitiva sobre un nombre de dominio.
+  5. **P:** ¿Cuál es la función del caché DNS? **R:** Almacena respuestas DNS para acelerar futuras solicitudes.
 - **Etiquetas:** #DNS #Redes #Internet #Servidores
 
 ---
@@ -127,17 +127,17 @@ Un **navegador web** es un software que permite acceder y visualizar informació
 El navegador web actúa como un intermediario entre el usuario y la web. Traduce el código de las páginas web en contenido que los humanos podemos ver e interactuar, como texto, imágenes, y videos. Los navegadores modernos también permiten ejecutar aplicaciones web complejas.
 - **Principio de Pareto:**
 El 20% más importante sobre navegadores web incluye:
-1. **Interfaz gráfica**: Traduce código en contenido visual.
-2. **Motor de renderizado**: Interpreta el código HTML.
-3. **Compatibilidad**: Soporta estándares web como HTML, CSS, y JavaScript.
-4. **Seguridad**: Protege al usuario de amenazas como sitios maliciosos.
-5. **Extensiones**: Añaden funcionalidades extra al navegador.
+  1. **Interfaz gráfica**: Traduce código en contenido visual.
+  2. **Motor de renderizado**: Interpreta el código HTML.
+  3. **Compatibilidad**: Soporta estándares web como HTML, CSS, y JavaScript.
+  4. **Seguridad**: Protege al usuario de amenazas como sitios maliciosos.
+  5. **Extensiones**: Añaden funcionalidades extra al navegador.
 - **Analogía o Modelo Mental:**
 El navegador es como una ventana al mundo de Internet. Mientras más limpia y clara sea la ventana (interfaz y motor de renderizado), mejor será la experiencia de navegar por la web.
 - **Flashcards/Notas de Estudio:**
-1. **P:** ¿Qué es un navegador web? **R:** Software que permite acceder y visualizar sitios web.
-2. **P:** ¿Qué hace el motor de renderizado? **R:** Traduce el código HTML en contenido visual.
-3. **P:** ¿Qué estándares soporta un navegador? **R:** HTML, CSS, JavaScript, entre otros.
-4. **P:** ¿Qué función de seguridad tiene un navegador? **R:** Protege contra sitios web maliciosos.
-5. **P:** ¿Qué son las extensiones en un navegador? **R:** Funcionalidades adicionales que mejoran la experiencia del usuario.
+  1. **P:** ¿Qué es un navegador web? **R:** Software que permite acceder y visualizar sitios web.
+  2. **P:** ¿Qué hace el motor de renderizado? **R:** Traduce el código HTML en contenido visual.
+  3. **P:** ¿Qué estándares soporta un navegador? **R:** HTML, CSS, JavaScript, entre otros.
+  4. **P:** ¿Qué función de seguridad tiene un navegador? **R:** Protege contra sitios web maliciosos.
+  5. **P:** ¿Qué son las extensiones en un navegador? **R:** Funcionalidades adicionales que mejoran la experiencia del usuario.
 - **Etiquetas:** #NavegadoresWeb #Internet #HTML #SeguridadWeb
