@@ -48,31 +48,6 @@
 
 ---
 
-# Introducción a Blockchain
-- **Enlace al Artículo:** [Introducción a Blockchain - Chainlink](https://chain.link/education-hub/blockchain)
-- **Explicación Breve del Concepto:**
-  Blockchain es una tecnología innovadora que permite la creación de un registro digital seguro, inmutable y descentralizado. Está diseñada para funcionar como un sistema de contabilidad distribuido, donde cada bloque contiene información codificada y se conecta a los bloques anteriores. Esta estructura no solo protege los datos, sino que también asegura la transparencia y la confianza entre las partes involucradas.
-- **Concepto Principal:**
-  La blockchain facilita el registro y la verificación de transacciones sin la necesidad de intermediarios, lo que reduce costos y aumenta la eficiencia. Los bloques de la cadena están vinculados criptográficamente, garantizando que los datos no puedan ser alterados sin el consenso de la red. A medida que la tecnología evoluciona, su potencial se extiende a diversas aplicaciones más allá de las criptomonedas.
-- **Principio de Pareto:**
-  Las ideas clave sobre blockchain incluyen:
-  1. Blockchain es un registro digital seguro e inmutable.
-  2. Cada bloque contiene información y está criptográficamente vinculado al anterior.
-  3. Facilita la verificación de transacciones sin intermediarios.
-  4. Aumenta la transparencia y la confianza entre las partes.
-  5. Su aplicación se expande a diversas industrias más allá de las criptomonedas.
-- **Analogía o Modelo Mental:**
-  Imagina blockchain como un libro de contabilidad en el que cada página (bloque) es revisada por múltiples auditores (nodos). Una vez que se registra una transacción, es casi imposible alterarla, garantizando la integridad del libro.
-- **Flashcards:**
-  1. **P:** ¿Qué es blockchain? **R:** Una tecnología que crea un registro digital seguro e inmutable.
-  2. **P:** ¿Qué contiene cada bloque en blockchain? **R:** Información codificada y un vínculo al bloque anterior.
-  3. **P:** ¿Cómo reduce blockchain la necesidad de intermediarios? **R:** Permitiendo la verificación de transacciones directamente entre las partes.
-  4. **P:** ¿Qué ventajas ofrece la transparencia en blockchain? **R:** Aumenta la confianza entre las partes involucradas.
-  5. **P:** ¿En qué sectores se está aplicando blockchain? **R:** En finanzas, logística, salud, y más.
-- **Etiquetas:** #Blockchain #Introducción #Tecnología #Transacciones
-
----
-
 # Cómo construir tu propia arquitectura de blockchain
 - **Enlace al Artículo:** [Cómo construir tu propia arquitectura de blockchain - MLSDev](https://mlsdev.com/blog/156-how-to-build-your-own-blockchain-architecture)
 - **Explicación Breve del Concepto:**
