@@ -86,7 +86,7 @@ Imagina que tu sitio web es una tienda. El **hosting compartido** es como alquil
 - **Flashcards/Notas de Estudio:**
 1. **P:** ¿Qué es el alojamiento web? **R:** Servicio que permite almacenar y publicar contenido de un sitio web en Internet.
 2. **P:** ¿Qué es el hosting compartido? **R:** Un servidor que aloja varios sitios web compartiendo recursos entre ellos.
-3. **P:** ¿Cuándo es recomendable usar un VPS? **R:**Cuando un sitio web requiere más recursos y personalización que los ofrecidos por el hosting compartido.
+3. **P:** ¿Cuándo es recomendable usar un VPS? **R:** Cuando un sitio web requiere más recursos y personalización que los ofrecidos por el hosting compartido.
 4. **P:** ¿Qué tipo de hosting es el más costoso y ofrece más control? **R:** El hosting dedicado.
 5. **P:** ¿Cuál es la ventaja principal del hosting compartido? **R:** Su bajo costo y facilidad de uso para principiantes.
 - **Etiquetas:** #Hosting #AlojamientoWeb #VPS #HostingCompartido #SitiosWeb
